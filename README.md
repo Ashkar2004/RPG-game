@@ -1,1 +1,1 @@
-# RPG-game
+A text-based RPG game built with JavaScript, CSS, and HTML, following Codecademy’s tutorials. It features interactive gameplay through buttons and text, with no graphics. This project emphasizes logic, story progression, and user interaction without visual elements.
